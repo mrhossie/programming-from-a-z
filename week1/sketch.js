@@ -8,5 +8,5 @@ function setup() {
 }
 
 function newText() {
-  createP(texfield.value());
+  createP(textfield.value());
 }
